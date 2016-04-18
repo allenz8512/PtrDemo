@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ptr_demo">
+        <attr name="releaseFactor" format="float"/>
+    </declare-styleable>
+    <string name="ptr_demo_scrolling_view_behavior">me.allenzjl.ptrdemo.PullToRefreshScrollBehavior</string>
+</resources>
